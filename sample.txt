@@ -1,3 +1,4 @@
 猿でもわかるgit
 add 変更するコマンド
 commit
+pull リモート
